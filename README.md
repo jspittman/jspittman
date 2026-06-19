@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Jeff Pittman 👋
 
-<!--
-**jspittman/jspittman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & builder. I make things that help people connect, play, and learn.
+  
+- 🛁 **[Hottub](https://joinhottub.com)** — where strangers become regulars. Small, host-led
+rooms: online · VR · in real life.
+- 🤖 **[Ruption AI](https://ruption.ai)** — AI & tech.
+- 🧸 **[MackToys](https://macktoys.com)** — a toy company.
+- 📚 **BuildThisLibrary** — a 501(c)(3).
 
-Here are some ideas to get you started:
+**Open source I maintain**
+- [react-poster-video](https://github.com/joinhottub/react-poster-video) — autoplay hero
+video that doesn't ruin your site.
+- [@joinhottub/depwatch](https://github.com/joinhottub/depwatch) — dependency inventory + CLI
+for JS/TS monorepos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building from Newport, Washington 🇺🇸
+📫 jeff.pittman@gmail.com · 𝕏 [@Jeff_Pittman](https://x.com/Jeff_Pittman)·
+[in/jeffreypittman](https://www.linkedin.com/in/jeffreypittman)
